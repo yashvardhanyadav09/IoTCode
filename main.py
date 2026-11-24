@@ -37,7 +37,7 @@ SSID     = "WiFi-SSID"
 PASSWORD = "WiFi-Password"
 
 # API settings (exactly like your Python code)
-API_BASE = "https://panipahraapivdb.onrender.com/"
+API_BASE    = "https://panipahraapivdb.onrender.com/"
 LOCATION_ID = "location01A"  # Same as your Python script
 
 Relay_Ops_Delay_Time = 5
